@@ -4,5 +4,8 @@
 # Salesforce DX
 .sfdx/
 
+# Salesforce Metadata API
+src/
+
 # Visual Studio Code
 .vscode/
